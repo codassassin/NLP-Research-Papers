@@ -1,2 +1,2 @@
 # NLP-Research-Papers
-This are some research papers on NLP gathered from around internet
+These are some research papers on NLP gathered from around internet
